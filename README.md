@@ -1,2 +1,2 @@
 # blackjack
-Black jack gamr
+Black jack game
